@@ -1,7 +1,7 @@
 {
     "experiences": [{
         "title": "Paris' Best Kept Secrets Tour",
-        "kicker_text": "history walk · Paris",
+        "kicker_text": "history walk * Paris",
         "country": "France",
         "picture": "https://a0.muscache.com/im/pictures/571e0e7b-6867-4c44-bd91-776a5d698fae.jpg",
         "star_rating": 5.0,
@@ -9,7 +9,7 @@
         "lng": 2.32934203089
     }, {
         "title": "Silent Disco Beach Yoga",
-        "kicker_text": "yoga · San Francisco",
+        "kicker_text": "yoga * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/dc638487-3cc5-41a0-b68a-85633f955349.jpg",
         "star_rating": 5.0,
@@ -17,7 +17,7 @@
         "lng": -122.483125732
     }, {
         "title": "Hands-on Authentic Thai Cooking Class",
-        "kicker_text": "cooking class · Bangkok",
+        "kicker_text": "cooking class * Bangkok",
         "country": "Thailand",
         "picture": "https://a0.muscache.com/im/pictures/de0b473d-e035-432b-9d03-11f4198907da.jpg",
         "star_rating": 5.0,
@@ -25,7 +25,7 @@
         "lng": 100.559463699
     }, {
         "title": "On the roof of BCN & best tortilla",
-        "kicker_text": "guided hike · Barcelona",
+        "kicker_text": "guided hike * Barcelona",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/b5635f30-2dd0-4ac0-ac99-c7e583e63fab.jpg",
         "star_rating": 5.0,
@@ -33,7 +33,7 @@
         "lng": 2.17074258445
     }, {
         "title": "Wolf Encounter",
-        "kicker_text": "sanctuary visit · Seattle",
+        "kicker_text": "sanctuary visit * Seattle",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/a7e59c75-a34d-4964-81e4-894e9b6afa66.jpg",
         "star_rating": 5.0,
@@ -41,7 +41,7 @@
         "lng": -122.642527316
     }, {
         "title": "Discover the city by bike",
-        "kicker_text": "bike ride · Havana",
+        "kicker_text": "bike ride * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/455f6a13-86c7-4eeb-b7d0-0af3c59fc762.jpg",
         "star_rating": 5.0,
@@ -49,7 +49,7 @@
         "lng": -82.4010495585
     }, {
         "title": "Prepare ice cream rolls with a chef",
-        "kicker_text": "dessert class · Los Angeles",
+        "kicker_text": "dessert class * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/3b04a856-db18-4a51-8760-039dc3863751.jpg",
         "star_rating": 5.0,
@@ -57,7 +57,7 @@
         "lng": -118.25778554
     }, {
         "title": "Instagram worthy hike in La Jolla",
-        "kicker_text": "guided hike · San Diego",
+        "kicker_text": "guided hike * San Diego",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/ad125160-c471-424c-a34d-33d471145015.jpg",
         "star_rating": 5.0,
@@ -65,7 +65,7 @@
         "lng": -117.258308531
     }, {
         "title": "Discover the city's party scene",
-        "kicker_text": "nightlife · New York",
+        "kicker_text": "nightlife * New York",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/9cc4d447-585d-4f4b-b810-47b75f59a339.jpg",
         "star_rating": 5.0,
@@ -73,7 +73,7 @@
         "lng": -73.9891586272
     }, {
         "title": "Paella Experience",
-        "kicker_text": "cooking class · Seville",
+        "kicker_text": "cooking class * Seville",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/0644a567-9647-4b50-9417-e8affab31ba1.jpg",
         "star_rating": 5.0,
@@ -81,7 +81,7 @@
         "lng": -6.00411811884
     }, {
         "title": "Learn to fly a plane above Los Angeles",
-        "kicker_text": "flying lesson · Los Angeles",
+        "kicker_text": "flying lesson * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/53b0f970-d730-4d02-a748-1d14c6b6aa8d.jpg",
         "star_rating": 5.0,
@@ -89,7 +89,7 @@
         "lng": -118.499904591
     }, {
         "title": "Learn salsa at a rooftop studio",
-        "kicker_text": "dance lesson · Havana",
+        "kicker_text": "dance lesson * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/014e259a-8250-415c-9994-a2305125b83d.jpg",
         "star_rating": 5.0,
@@ -97,7 +97,7 @@
         "lng": -82.4288857314
     }, {
         "title": "Snorkel to a shipwreck in Havana",
-        "kicker_text": "snorkeling · Havana",
+        "kicker_text": "snorkeling * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/a63ddc67-7b0d-4be6-b1a7-dbb91c36cbe8.jpg",
         "star_rating": 5.0,
@@ -105,7 +105,7 @@
         "lng": -82.3601286247
     }, {
         "title": "Make tacos al pastor with a chef",
-        "kicker_text": "cooking class · Mexico City",
+        "kicker_text": "cooking class * Mexico City",
         "country": "México",
         "picture": "https://a0.muscache.com/im/pictures/a83ef611-b447-43ac-9b86-93f57f9105b0.jpg",
         "star_rating": 5.0,
@@ -113,7 +113,7 @@
         "lng": -99.1862035572
     }, {
         "title": "Paddle with the Penguins",
-        "kicker_text": "kayaking · Cape Town",
+        "kicker_text": "kayaking * Cape Town",
         "country": "South Africa",
         "picture": "https://a0.muscache.com/im/pictures/2b03f25e-e552-49e5-a9b6-6a6534fb5e9c.jpg",
         "star_rating": 5.0,
@@ -121,7 +121,7 @@
         "lng": 18.4478974429
     }, {
         "title": "Traditional Gastronomy Immersion",
-        "kicker_text": "food workshop · Bali",
+        "kicker_text": "food workshop * Bali",
         "country": "Indonesia",
         "picture": "https://a0.muscache.com/im/pictures/d006bb8c-a672-44d7-a6b3-91472b341617.jpg",
         "star_rating": 5.0,
@@ -129,7 +129,7 @@
         "lng": 115.263759778
     }, {
         "title": "The Surf Champion",
-        "kicker_text": "surf lesson · Bali",
+        "kicker_text": "surf lesson * Bali",
         "country": "Indonesia",
         "picture": "https://a0.muscache.com/im/pictures/a9860b74-816f-49d4-99ca-b6706640c09f.jpg",
         "star_rating": 5.0,
@@ -137,7 +137,7 @@
         "lng": 115.181076335
     }, {
         "title": "Sonoma - Winery hop in a vintage VW",
-        "kicker_text": "wine tasting · San Francisco",
+        "kicker_text": "wine tasting * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/ccada886-f71d-4f32-98bf-d2f558df8df2.jpg",
         "star_rating": 5.0,
@@ -145,7 +145,7 @@
         "lng": -122.45552454
     }, {
         "title": "Rooftop hatha yoga with an instructor",
-        "kicker_text": "yoga class · Havana",
+        "kicker_text": "yoga class * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/040c3707-a625-43c0-8f35-b4fe9ef13d02.jpg",
         "star_rating": 5.0,
@@ -153,7 +153,7 @@
         "lng": -82.3688287243
     }, {
         "title": "Unique Farm to Table cooking Class",
-        "kicker_text": "cooking class · Ho Chi Minh",
+        "kicker_text": "cooking class * Ho Chi Minh",
         "country": "Vietnam",
         "picture": "https://a0.muscache.com/im/pictures/e457a4a8-fccb-460e-a4b6-ecb04cfbc89f.jpg",
         "star_rating": 5.0,
@@ -161,7 +161,7 @@
         "lng": 106.62870897
     }, {
         "title": "Soak in a Volcanic Hot Spring",
-        "kicker_text": "wellness class · The Big Island",
+        "kicker_text": "wellness class * The Big Island",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/a5970455-ff9a-4f6f-a41e-2624024dba24.jpg",
         "star_rating": 5.0,
@@ -169,7 +169,7 @@
         "lng": -154.893880473
     }, {
         "title": "Maui Goat Yoga with Miniature Goats",
-        "kicker_text": "yoga class · Maui",
+        "kicker_text": "yoga class * Maui",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/0923390a-d204-46a2-b5ec-d359ded27d79.jpg",
         "star_rating": 5.0,
@@ -177,7 +177,7 @@
         "lng": -156.360422137
     }, {
         "title": "Beverly Hills Bike Adventure",
-        "kicker_text": "bike ride · Los Angeles",
+        "kicker_text": "bike ride * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/fb742a3b-7f8a-47aa-97a7-ed70797a186a.jpg",
         "star_rating": 5.0,
@@ -185,7 +185,7 @@
         "lng": -118.367877341
     }, {
         "title": "Organic Farm Cooking Class",
-        "kicker_text": "cooking class · Bali",
+        "kicker_text": "cooking class * Bali",
         "country": "Indonesia",
         "picture": "https://a0.muscache.com/im/pictures/2044659f-6cba-467c-a40f-e9af1be99c1f.jpg",
         "star_rating": 5.0,
@@ -193,7 +193,7 @@
         "lng": 115.300011394
     }, {
         "title": "The Royal Alcázar secrets",
-        "kicker_text": "history walk · Seville",
+        "kicker_text": "history walk * Seville",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/c23d0dc2-3c79-4fde-b60b-dfe16eb2ef39.jpg",
         "star_rating": 5.0,
@@ -201,7 +201,7 @@
         "lng": -5.99257237231
     }, {
         "title": "Explore the City with an economist!",
-        "kicker_text": "design walk · London",
+        "kicker_text": "design walk * London",
         "country": "United Kingdom",
         "picture": "https://a0.muscache.com/im/pictures/3cb876b6-9ae9-4ffb-bd7e-60076792577d.jpg",
         "star_rating": 5.0,
@@ -209,7 +209,7 @@
         "lng": -0.0968874604524
     }, {
         "title": "7 Best Prague View Points - eBike tour",
-        "kicker_text": "bike ride · Prague",
+        "kicker_text": "bike ride * Prague",
         "country": "Česká republika",
         "picture": "https://a0.muscache.com/im/pictures/bd8d8758-c0fb-4690-854b-cbc1a8dfd261.jpg",
         "star_rating": 5.0,
@@ -217,7 +217,7 @@
         "lng": 14.399661025
     }, {
         "title": "Tuscan Winemakers",
-        "kicker_text": "food & drink · Florence",
+        "kicker_text": "food & drink * Florence",
         "country": "Italia",
         "picture": "https://a0.muscache.com/im/pictures/798c4afd-960a-4049-a443-b7fe18ef5e99.jpg",
         "star_rating": 5.0,
@@ -225,7 +225,7 @@
         "lng": 11.249813384
     }, {
         "title": "Uncover El Born with a historian",
-        "kicker_text": "walking tour · Barcelona",
+        "kicker_text": "walking tour * Barcelona",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/f89dff53-5806-458b-ba9b-0eda7074a635.jpg",
         "star_rating": 5.0,
@@ -233,7 +233,7 @@
         "lng": 2.17822693069
     }, {
         "title": "Techno Adventure  (Local bars + Club)",
-        "kicker_text": "nightlife · Barcelona",
+        "kicker_text": "nightlife * Barcelona",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/1b5bbf85-abd0-4a31-bf44-829750bafd0b.jpg",
         "star_rating": 5.0,
@@ -241,7 +241,7 @@
         "lng": 2.16077894129
     }, {
         "title": "Taste Mexican coffee with a café owner",
-        "kicker_text": "coffee tasting · Mexico City",
+        "kicker_text": "coffee tasting * Mexico City",
         "country": "México",
         "picture": "https://a0.muscache.com/im/pictures/343295ca-841b-4afd-b02a-b6f278f80dda.jpg",
         "star_rating": 5.0,
@@ -249,7 +249,7 @@
         "lng": -99.1602570976
     }, {
         "title": "Time Trek Howth",
-        "kicker_text": "guided hike · Dublin",
+        "kicker_text": "guided hike * Dublin",
         "country": "Ireland",
         "picture": "https://a0.muscache.com/im/pictures/999164da-1de2-4ce8-8eeb-bb2e6d96d9e0.jpg",
         "star_rating": 5.0,
@@ -257,7 +257,7 @@
         "lng": -6.06572718877
     }, {
         "title": "Biking Bangkok Oasis",
-        "kicker_text": "bike ride · Bangkok",
+        "kicker_text": "bike ride * Bangkok",
         "country": "Thailand",
         "picture": "https://a0.muscache.com/im/pictures/9efc5dd9-43e5-46f7-ba37-395a3afe8516.jpg",
         "star_rating": 5.0,
@@ -265,7 +265,7 @@
         "lng": 100.564139581
     }, {
         "title": "Montserrat & Natural Park on Horseback",
-        "kicker_text": "horseback ride · Barcelona",
+        "kicker_text": "horseback ride * Barcelona",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/2cf68cff-3a59-4057-b7ce-fcce81aa902f.jpg",
         "star_rating": 4.5,
@@ -273,7 +273,7 @@
         "lng": 2.16049938914
     }, {
         "title": "Driving through the Cuban History",
-        "kicker_text": "car ride · Havana",
+        "kicker_text": "car ride * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/01e70f9e-e2e0-4cea-857b-caee00c2986b.jpg",
         "star_rating": 5.0,
@@ -281,7 +281,7 @@
         "lng": -82.3603162731
     }, {
         "title": "Hike Table Mountain with a Guide!",
-        "kicker_text": "guided hike · Cape Town",
+        "kicker_text": "guided hike * Cape Town",
         "country": "South Africa",
         "picture": "https://a0.muscache.com/im/pictures/368ff984-3466-4cad-89ce-700472826d62.jpg",
         "star_rating": 5.0,
@@ -289,7 +289,7 @@
         "lng": 18.4016480361
     }, {
         "title": "Sunset Sail in Maui",
-        "kicker_text": "boat ride · Maui",
+        "kicker_text": "boat ride * Maui",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/33bca012-ba65-421b-a706-7c13b57bae72.jpg",
         "star_rating": 5.0,
@@ -297,7 +297,7 @@
         "lng": -156.677164876
     }, {
         "title": "Glassblowing in an artist studio",
-        "kicker_text": "art class · Chicago",
+        "kicker_text": "art class * Chicago",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/c7db91ab-c25b-4978-bb3d-667a75798783.jpg",
         "star_rating": 5.0,
@@ -305,7 +305,7 @@
         "lng": -87.7163594286
     }, {
         "title": "Helicopter Flight",
-        "kicker_text": "helicopter ride · Rio De Janeiro",
+        "kicker_text": "helicopter ride * Rio De Janeiro",
         "country": "Brazil",
         "picture": "https://a0.muscache.com/im/pictures/42b49e29-ecc2-4be0-b0ea-c4b560cfe2e7.jpg",
         "star_rating": 5.0,
@@ -313,7 +313,7 @@
         "lng": -43.3702724993
     }, {
         "title": "Osaka Urban Cycling Adventure",
-        "kicker_text": "bike ride · Osaka",
+        "kicker_text": "bike ride * Osaka",
         "country": "日本",
         "picture": "https://a0.muscache.com/im/pictures/461b9aea-ec1e-483c-bda9-8b4785624c59.jpg",
         "star_rating": 4.5,
@@ -321,7 +321,7 @@
         "lng": 135.505980088
     }, {
         "title": "Little Havana Food & Cultural Tour",
-        "kicker_text": "latin food · Miami",
+        "kicker_text": "latin food * Miami",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/dad3cd3f-4324-4941-b3bb-658072f4caec.jpg",
         "star_rating": 5.0,
@@ -329,7 +329,7 @@
         "lng": -80.2212030723
     }, {
         "title": "The Silver Jewelry Artesan",
-        "kicker_text": "jewelry class · Bali",
+        "kicker_text": "jewelry class * Bali",
         "country": "Indonesia",
         "picture": "https://a0.muscache.com/im/pictures/743e34b0-6aab-4fd0-b45a-4e1e99ae4d6c.jpg",
         "star_rating": 4.5,
@@ -337,7 +337,7 @@
         "lng": 115.256120953
     }, {
         "title": "Fortress Night Hike&Taste of Tradition",
-        "kicker_text": "guided hike · Seoul",
+        "kicker_text": "guided hike * Seoul",
         "country": "한국",
         "picture": "https://a0.muscache.com/im/pictures/cd365553-3ba1-4aca-8575-69c0a7aec6c3.jpg",
         "star_rating": 5.0,
@@ -345,7 +345,7 @@
         "lng": 126.966282196
     }, {
         "title": "Paris' top cinematic spots",
-        "kicker_text": "cinematic walk · Paris",
+        "kicker_text": "cinematic walk * Paris",
         "country": "France",
         "picture": "https://a0.muscache.com/im/pictures/cc71cb15-d255-4cf2-b16d-842533a4014a.jpg",
         "star_rating": 5.0,
@@ -353,7 +353,7 @@
         "lng": 2.34273886916
     }, {
         "title": "Retro Photoshoot in NYC",
-        "kicker_text": "photography · New York",
+        "kicker_text": "photography * New York",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/fc84f11e-bd04-4efb-bc4e-65a2070ce49a.jpg",
         "star_rating": 5.0,
@@ -361,7 +361,7 @@
         "lng": -73.94673277
     }, {
         "title": "带上“礼物”&“好故事”，我们玩“礼物交换”的游戏",
-        "kicker_text": "Arts & Design · Shanghai",
+        "kicker_text": "Arts & Design * Shanghai",
         "country": "中国",
         "picture": "https://a0.muscache.com/im/pictures/5db4c7b6-288c-4471-bf1f-307ccb75ce9d.jpg",
         "star_rating": 5.0,
@@ -369,7 +369,7 @@
         "lng": 121.480039883
     }, {
         "title": "Collines en Tuk Tuk, ruelles à pied",
-        "kicker_text": "car ride · Lisbon",
+        "kicker_text": "car ride * Lisbon",
         "country": "Portugal",
         "picture": "https://a0.muscache.com/im/pictures/83f1dc9b-d0cb-4a6d-a3c8-f7d0950e8651.jpg",
         "star_rating": 5.0,
@@ -377,7 +377,7 @@
         "lng": -9.14141373168
     }, {
         "title": "Atlantic Ocean Kayaking from the V&A",
-        "kicker_text": "kayaking · Cape Town",
+        "kicker_text": "kayaking * Cape Town",
         "country": "South Africa",
         "picture": "https://a0.muscache.com/im/pictures/82e86033-fa64-448c-b2b9-131dfd6062fc.jpg",
         "star_rating": 5.0,
@@ -385,7 +385,7 @@
         "lng": 18.4155160869
     }, {
         "title": "Unwind with a Thai yoga massage",
-        "kicker_text": "massage · Havana",
+        "kicker_text": "massage * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/5cdde8b0-9065-4a35-9cb4-656b80b1a1e1.jpg",
         "star_rating": 5.0,
@@ -393,7 +393,7 @@
         "lng": -82.3902516291
     }, {
         "title": "Travel Photography Class",
-        "kicker_text": "photo class · Rome",
+        "kicker_text": "photo class * Rome",
         "country": "Italy",
         "picture": "https://a0.muscache.com/im/pictures/85bc55e5-1eae-4a4d-9792-e16b87cfae6b.jpg",
         "star_rating": 5.0,
@@ -401,7 +401,7 @@
         "lng": 12.4822156586
     }, {
         "title": "Barcelona by bike: sightseeing & tapas",
-        "kicker_text": "bike ride · Barcelona",
+        "kicker_text": "bike ride * Barcelona",
         "country": "Spain",
         "picture": "https://a0.muscache.com/im/pictures/9beb26f8-ee74-45f0-8f57-82df2a08bf86.jpg",
         "star_rating": 5.0,
@@ -409,7 +409,7 @@
         "lng": 2.17789388455
     }, {
         "title": "Explore nightlife with local students",
-        "kicker_text": "food tasting · Ho Chi Minh",
+        "kicker_text": "food tasting * Ho Chi Minh",
         "country": "Vietnam",
         "picture": "https://a0.muscache.com/im/pictures/ba4b8711-32d5-4a30-b4e2-b8cb1b8eda81.jpg",
         "star_rating": 5.0,
@@ -417,7 +417,7 @@
         "lng": 106.699463002
     }, {
         "title": "Sailing Adventure",
-        "kicker_text": "boat ride · Coastal Orange County",
+        "kicker_text": "boat ride * Coastal Orange County",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/b79d7bd8-d3e0-4792-b9ed-34e1015a0cfa.jpg",
         "star_rating": 5.0,
@@ -425,7 +425,7 @@
         "lng": -117.926924241
     }, {
         "title": "Explore the best market in the city",
-        "kicker_text": "food tasting · Mexico City",
+        "kicker_text": "food tasting * Mexico City",
         "country": "México",
         "picture": "https://a0.muscache.com/im/pictures/07bb6e43-a458-4935-ad50-83183a5a68ac.jpg",
         "star_rating": 5.0,
@@ -433,7 +433,7 @@
         "lng": -99.1424194481
     }, {
         "title": "Secret Concert in a Treehouse",
-        "kicker_text": "intimate concert · London",
+        "kicker_text": "intimate concert * London",
         "country": "United Kingdom",
         "picture": "https://a0.muscache.com/im/pictures/cf19594a-8a8c-4863-9994-a2213534b8d9.jpg",
         "star_rating": 5.0,
@@ -441,7 +441,7 @@
         "lng": -0.0806110402915
     }, {
         "title": "Lakehouse Jazz",
-        "kicker_text": "intimate concert · San Francisco",
+        "kicker_text": "intimate concert * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/176a5a82-180b-4146-a05a-e50cb7f7468e.jpg",
         "star_rating": 4.5,
@@ -449,7 +449,7 @@
         "lng": -122.477716241
     }, {
         "title": "Take a private flight over the city",
-        "kicker_text": "plane ride · Portland",
+        "kicker_text": "plane ride * Portland",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/16ac69b0-4aa7-498c-bffe-63a5f73f02da.jpg",
         "star_rating": 5.0,
@@ -457,7 +457,7 @@
         "lng": -122.394316835
     }, {
         "title": "Hike Runyon Canyon with a rescue dog",
-        "kicker_text": "guided hike · Los Angeles",
+        "kicker_text": "guided hike * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/55c7aa1a-2d34-4c3d-b439-66b03ceb81d2.jpg",
         "star_rating": 5.0,
@@ -465,7 +465,7 @@
         "lng": -118.349754555
     }, {
         "title": "Aerial Arts Taster Class & Coffee",
-        "kicker_text": "acrobatic class · San Francisco",
+        "kicker_text": "acrobatic class * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/364e0afe-3946-4a41-b602-bf1804520065.jpg",
         "star_rating": 5.0,
@@ -473,7 +473,7 @@
         "lng": -122.410484213
     }, {
         "title": "Live Music by Los Angeles Best Artists",
-        "kicker_text": "intimate concert · Los Angeles",
+        "kicker_text": "intimate concert * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/1085eb3b-8114-4baf-bea1-9a6838c427e4.jpg",
         "star_rating": 0,
@@ -481,7 +481,7 @@
         "lng": -118.260119847
     }, {
         "title": "Make Riceball 'Onigiri' With Local Mom",
-        "kicker_text": "cooking class · Tokyo",
+        "kicker_text": "cooking class * Tokyo",
         "country": "日本",
         "picture": "https://a0.muscache.com/im/pictures/0361ef52-09c8-49e7-a39c-45e2c156a408.jpg",
         "star_rating": 0,
@@ -489,7 +489,7 @@
         "lng": 139.789505225
     }, {
         "title": "Hidden Stairways of SF Urban Run/Hike",
-        "kicker_text": "Sports · San Francisco",
+        "kicker_text": "Sports * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/c4acdfc2-d9bb-4c63-86fb-ea4a7456f6c5.jpg",
         "star_rating": 0,
@@ -497,7 +497,7 @@
         "lng": -122.471477302
     }, {
         "title": "Join the LA Beach Volleyball Scene",
-        "kicker_text": "Sports · Los Angeles",
+        "kicker_text": "Sports * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/00c7584f-cef8-4c07-85e0-7bdce3e045fa.jpg",
         "star_rating": 0,
@@ -505,7 +505,7 @@
         "lng": -118.486731574
     }, {
         "title": "Behind the Scenes Winery Tasting",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/3e79098b-4b15-4fe5-b50b-01fd6392bd5d.jpg",
         "star_rating": 0,
@@ -513,7 +513,7 @@
         "lng": -74.8894589695
     }, {
         "title": "Drag show at a dive bar",
-        "kicker_text": "Entertainment · Philadelphia",
+        "kicker_text": "Entertainment * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/8158bbca-482c-406e-8ae7-0c0278e7b2ab.jpg",
         "star_rating": 0,
@@ -521,7 +521,7 @@
         "lng": -75.1687166873
     }, {
         "title": "Circuito Igrejas Históricas do Rio",
-        "kicker_text": "History · Rio De Janeiro",
+        "kicker_text": "History * Rio De Janeiro",
         "country": "Brasil",
         "picture": "https://a0.muscache.com/im/pictures/1ef358c4-fc0f-4e3e-a8a1-96515993954f.jpg",
         "star_rating": 0,
@@ -529,7 +529,7 @@
         "lng": -43.1787631813
     }, {
         "title": "The Delicious East Vegan tour in Paris",
-        "kicker_text": "Food & Drink · Paris",
+        "kicker_text": "Food & Drink * Paris",
         "country": "France",
         "picture": "https://a0.muscache.com/im/pictures/7ab49609-9df5-4868-8736-2dd7701ec345.jpg",
         "star_rating": 0,
@@ -537,7 +537,7 @@
         "lng": 2.36881395967
     }, {
         "title": "Learn to make a canvas tote by hand",
-        "kicker_text": "craft class · Hangzhou",
+        "kicker_text": "craft class * Hangzhou",
         "country": "中国",
         "picture": "https://a0.muscache.com/im/pictures/39963f94-4a9e-4ee5-8966-8aae5974e62b.jpg",
         "star_rating": 0,
@@ -545,7 +545,7 @@
         "lng": 120.054482673
     }, {
         "title": "Mt. Takao Hiking Day Trip in Tokyo",
-        "kicker_text": "guided hike · Tokyo",
+        "kicker_text": "guided hike * Tokyo",
         "country": "Japan",
         "picture": "https://a0.muscache.com/im/pictures/f4b2d106-0f23-4fa4-ad28-1bbae1841ed1.jpg",
         "star_rating": 0,
@@ -553,7 +553,7 @@
         "lng": 139.270159458
     }, {
         "title": "Taste Sake & Green tea in tea room",
-        "kicker_text": "sake tasting · Tokyo",
+        "kicker_text": "sake tasting * Tokyo",
         "country": "Japan",
         "picture": "https://a0.muscache.com/im/pictures/5dfee8bc-d0a9-44b3-a6a1-fe4253759147.jpg",
         "star_rating": 0,
@@ -561,7 +561,7 @@
         "lng": 139.702014698
     }, {
         "title": "Off Road in Tuscany",
-        "kicker_text": "car ride · Florence",
+        "kicker_text": "car ride * Florence",
         "country": "Italia",
         "picture": "https://a0.muscache.com/im/pictures/4eff5cab-5e3e-4027-9f49-1cd03123679e.jpg",
         "star_rating": 0,
@@ -569,7 +569,7 @@
         "lng": 11.4728352993
     }, {
         "title": "Yoga for Everyone, Everywhere",
-        "kicker_text": "Wellness · Philadelphia",
+        "kicker_text": "Wellness * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/989eb5b6-b012-43ba-873d-6fff0079eafb.jpg",
         "star_rating": 0,
@@ -577,7 +577,7 @@
         "lng": -75.1347713469
     }, {
         "title": "Local's boat tour in Miami beach",
-        "kicker_text": "boat ride · Miami",
+        "kicker_text": "boat ride * Miami",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/919f49f1-c2b5-4ef9-9bce-4dbc6d5a2ff3.jpg",
         "star_rating": 0,
@@ -585,7 +585,7 @@
         "lng": -80.1857444565
     }, {
         "title": "Boat Ride in Miami & Paddleboarding",
-        "kicker_text": "boat ride · Miami",
+        "kicker_text": "boat ride * Miami",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/4cec269d-5c1c-4c83-83f6-ee8f859db9a9.jpg",
         "star_rating": 0,
@@ -593,7 +593,7 @@
         "lng": -80.1850423475
     }, {
         "title": "The Party",
-        "kicker_text": "intimate concert · Los Angeles",
+        "kicker_text": "intimate concert * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/329fe632-a862-4def-be4a-6819a909fbb8.jpg",
         "star_rating": 0,
@@ -601,7 +601,7 @@
         "lng": -118.252314308
     }, {
         "title": "Brewery Tour & Tasting",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/46729277-6962-402a-bd90-79eca1c7420a.jpg",
         "star_rating": 0,
@@ -609,7 +609,7 @@
         "lng": -75.2216842939
     }, {
         "title": "Women in History Tour",
-        "kicker_text": "History · Buenos Aires",
+        "kicker_text": "History * Buenos Aires",
         "country": "Argentina",
         "picture": "https://a0.muscache.com/im/pictures/ec964b29-831c-46e0-8385-51ffb9e3b151.jpg",
         "star_rating": 0,
@@ -617,7 +617,7 @@
         "lng": -58.3912288743
     }, {
         "title": "Porteño Culture Tour",
-        "kicker_text": "culture walk · Buenos Aires",
+        "kicker_text": "culture walk * Buenos Aires",
         "country": "Argentina",
         "picture": "https://a0.muscache.com/im/pictures/c0b3ea3b-31ad-4847-a90d-81579882c099.jpg",
         "star_rating": 0,
@@ -625,7 +625,7 @@
         "lng": -58.3723712458
     }, {
         "title": "Philly Prints at Fleisher Art Memorial",
-        "kicker_text": "Arts & Design · Philadelphia",
+        "kicker_text": "Arts & Design * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/3dbba156-7aee-4213-ba99-aadae6d0667f.jpg",
         "star_rating": 0,
@@ -633,7 +633,7 @@
         "lng": -75.1563707779
     }, {
         "title": "Evening Food Walk",
-        "kicker_text": "food walk · New Delhi",
+        "kicker_text": "food walk * New Delhi",
         "country": "India",
         "picture": "https://a0.muscache.com/im/pictures/1f68659d-6b00-447b-bb12-bf79621ac466.jpg",
         "star_rating": 0,
@@ -641,7 +641,7 @@
         "lng": 77.2321338314
     }, {
         "title": "Valentines DIY Jewelry Experience",
-        "kicker_text": "craft class · Toronto",
+        "kicker_text": "craft class * Toronto",
         "country": "Canada",
         "picture": "https://a0.muscache.com/im/pictures/0b0943c3-e0ae-4594-8a6f-d2d631def763.jpg",
         "star_rating": 0,
@@ -649,7 +649,7 @@
         "lng": -79.4561325124
     }, {
         "title": "Fishtown Brewery Experience",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/8fd2a5ea-02f9-4a77-8004-768bc0d0140d.jpg",
         "star_rating": 0,
@@ -657,7 +657,7 @@
         "lng": -75.1263966542
     }, {
         "title": "Gourmet picnic",
-        "kicker_text": "food & drink · Lisbon",
+        "kicker_text": "food & drink * Lisbon",
         "country": "Portugal",
         "picture": "https://a0.muscache.com/im/pictures/a61c4114-14d7-4870-8423-9ed8d74275ca.jpg",
         "star_rating": 0,
@@ -665,7 +665,7 @@
         "lng": -9.16190549215
     }, {
         "title": "Mountain Bike Philly",
-        "kicker_text": "Sports · Philadelphia",
+        "kicker_text": "Sports * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/6ff2495e-1b79-4862-9dd1-2e828337a3a5.jpg",
         "star_rating": 0,
@@ -673,7 +673,7 @@
         "lng": -75.2186605627
     }, {
         "title": "CAT! Tokyo Cat Tour for Cat Lover!",
-        "kicker_text": "culture walk · Tokyo",
+        "kicker_text": "culture walk * Tokyo",
         "country": "Japan",
         "picture": "https://a0.muscache.com/im/pictures/781cbdf2-22aa-49f8-8366-a1dc1b4a76f6.jpg",
         "star_rating": 0,
@@ -681,7 +681,7 @@
         "lng": 139.7975129
     }, {
         "title": "Secrets of Thai Floral Art",
-        "kicker_text": "workshop · Bangkok",
+        "kicker_text": "workshop * Bangkok",
         "country": "Thailand",
         "picture": "https://a0.muscache.com/im/pictures/10d19074-9deb-47af-a104-fab669787daf.jpg",
         "star_rating": 0,
@@ -689,7 +689,7 @@
         "lng": 100.518804918
     }, {
         "title": "Persian Cuisine Lesson&Dining",
-        "kicker_text": "cooking class · London",
+        "kicker_text": "cooking class * London",
         "country": "United Kingdom",
         "picture": "https://a0.muscache.com/im/pictures/3dda57c0-05b0-49e6-ad45-a92d877e9049.jpg",
         "star_rating": 0,
@@ -697,7 +697,7 @@
         "lng": -0.367740905931
     }, {
         "title": "★★★★★ RED LIGHT NIGHT PHOTOGRAPHY TOUR",
-        "kicker_text": "photo class · Amsterdam",
+        "kicker_text": "photo class * Amsterdam",
         "country": "Netherlands",
         "picture": "https://a0.muscache.com/im/pictures/e42dc8d4-0d14-41a2-9466-a6383998b6aa.jpg",
         "star_rating": 0,
@@ -705,7 +705,7 @@
         "lng": 4.90087544188
     }, {
         "title": "中上環精華遊＋米芝蓮推薦燒鵝飯",
-        "kicker_text": "history walk · Hong Kong",
+        "kicker_text": "history walk * Hong Kong",
         "country": "香港",
         "picture": "https://a0.muscache.com/im/pictures/46619d23-d9ea-4ff0-9bb5-b21a87523bfc.jpg",
         "star_rating": 0,
@@ -713,7 +713,7 @@
         "lng": 114.152322804
     }, {
         "title": "Cook home style sushi \" Temaki - sushi \"",
-        "kicker_text": "cooking class · Osaka",
+        "kicker_text": "cooking class * Osaka",
         "country": "日本",
         "picture": "https://a0.muscache.com/im/pictures/4f23ff94-e41c-4627-9d63-a5b1d825fc48.jpg",
         "star_rating": 0,
@@ -721,7 +721,7 @@
         "lng": 135.559316708
     }, {
         "title": "Caminhada na Orla Carioca+LGBTs do Rio",
-        "kicker_text": "nature walk · Rio De Janeiro",
+        "kicker_text": "nature walk * Rio De Janeiro",
         "country": "Brasil",
         "picture": "https://a0.muscache.com/im/pictures/a2e69ce0-991e-4bbc-a6af-20beadad695e.jpg",
         "star_rating": 0,
@@ -729,7 +729,7 @@
         "lng": -43.198054777
     }, {
         "title": "Create your Startup in Berlin",
-        "kicker_text": "business class · Berlin",
+        "kicker_text": "business class * Berlin",
         "country": "Allemagne",
         "picture": "https://a0.muscache.com/im/pictures/1e074ef7-0f1d-42ad-a9bd-439afff2e58d.jpg",
         "star_rating": 0,
@@ -737,7 +737,7 @@
         "lng": 13.3945518123
     }, {
         "title": "Insider Street Photography & Food Tour",
-        "kicker_text": "photo walk · Ho Chi Minh",
+        "kicker_text": "photo walk * Ho Chi Minh",
         "country": "Vietnam",
         "picture": "https://a0.muscache.com/im/pictures/6b4bc2a9-5aa2-4959-8481-180ccb6d3c98.jpg",
         "star_rating": 0,
@@ -745,7 +745,7 @@
         "lng": 106.698826229
     }, {
         "title": "Live Drawing in an Artist Studio",
-        "kicker_text": "Arts & Design · Philadelphia",
+        "kicker_text": "Arts & Design * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/77eceab0-3484-4ef1-983d-584ba44a9871.jpg",
         "star_rating": 0,
@@ -753,7 +753,7 @@
         "lng": -75.2221818916
     }, {
         "title": "Vintage Shopping with a Stylist",
-        "kicker_text": "shopping · Chicago",
+        "kicker_text": "shopping * Chicago",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/35db4d88-9d9c-455d-a28b-ad3a16254576.jpg",
         "star_rating": 0,
@@ -761,7 +761,7 @@
         "lng": -87.6511963274
     }, {
         "title": "Floating Yoga with Aqua Vida",
-        "kicker_text": "Wellness · Philadelphia",
+        "kicker_text": "Wellness * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/2e5f7d78-66df-4891-87ad-a8e5477fc2d6.jpg",
         "star_rating": 0,
@@ -769,7 +769,7 @@
         "lng": -75.1409747765
     }, {
         "title": "Historic Italian Market Sensory Tour",
-        "kicker_text": "History · Philadelphia",
+        "kicker_text": "History * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/46cc4e2e-ddfd-425c-825a-21516fe1a5ef.jpg",
         "star_rating": 0,
@@ -777,7 +777,7 @@
         "lng": -75.1569297145
     }, {
         "title": "Himalayan Food Expedition in Toronto",
-        "kicker_text": "Food & Drink · Toronto",
+        "kicker_text": "Food & Drink * Toronto",
         "country": "Canada",
         "picture": "https://a0.muscache.com/im/pictures/db507410-709f-4c23-b28e-b408b47e066a.jpg",
         "star_rating": 0,
@@ -785,7 +785,7 @@
         "lng": -79.3844368531
     }, {
         "title": "Fish Philly",
-        "kicker_text": "Nature · Philadelphia",
+        "kicker_text": "Nature * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/3c5099a6-0078-488b-a33e-ed810d050896.jpg",
         "star_rating": 0,
@@ -793,7 +793,7 @@
         "lng": -75.182260358
     }, {
         "title": "Art Tour dans Paris",
-        "kicker_text": "art walk · Paris",
+        "kicker_text": "art walk * Paris",
         "country": "France",
         "picture": "https://a0.muscache.com/im/pictures/6e3acf6c-3691-47f4-a7fc-78b8682731bd.jpg",
         "star_rating": 0,
@@ -801,7 +801,7 @@
         "lng": 2.36388254684
     }, {
         "title": "Learn How To Brew Beer At Home!",
-        "kicker_text": "workshop · Portland",
+        "kicker_text": "workshop * Portland",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/895d6f08-8115-4cd7-9bd3-f1ee77309d30.jpg",
         "star_rating": 0,
@@ -809,7 +809,7 @@
         "lng": -122.611152271
     }, {
         "title": "Have a Portuguese lunch with a local",
-        "kicker_text": "food tasting · Lisbon",
+        "kicker_text": "food tasting * Lisbon",
         "country": "Portugal",
         "picture": "https://a0.muscache.com/im/pictures/a6a0c394-2788-44b0-bff9-852c3fcde5bb.jpg",
         "star_rating": 0,
@@ -817,7 +817,7 @@
         "lng": -9.13002239963
     }, {
         "title": "Create your Unique Custom Mug!",
-        "kicker_text": "workshop · Portland",
+        "kicker_text": "workshop * Portland",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/99cc6a95-b9dd-4ae6-bf42-05bbe1790a88.jpg",
         "star_rating": 0,
@@ -825,7 +825,7 @@
         "lng": -122.645979581
     }, {
         "title": "Studio Concert with Platinum Producer",
-        "kicker_text": "live music · New York",
+        "kicker_text": "live music * New York",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/c2de6af1-3997-4082-b68e-e1ff6cb0d8fa.jpg",
         "star_rating": 0,
@@ -833,7 +833,7 @@
         "lng": -73.9935278986
     }, {
         "title": "Philly's Underground Walking Tour",
-        "kicker_text": "Music · Philadelphia",
+        "kicker_text": "Music * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/de0936cd-19c8-461e-b4f8-2526a12e034f.jpg",
         "star_rating": 0,
@@ -841,7 +841,7 @@
         "lng": -75.1343233151
     }, {
         "title": "Get Styled, And Shop With 25% Off!",
-        "kicker_text": "personal styling · New York",
+        "kicker_text": "personal styling * New York",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/48752c76-bb3d-478c-8be7-0a8cfc8293c1.jpg",
         "star_rating": 0,
@@ -849,7 +849,7 @@
         "lng": -73.9871338767
     }, {
         "title": "Philadelphia Skateboarding Adventure",
-        "kicker_text": "Sports · Philadelphia",
+        "kicker_text": "Sports * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/e0e8be2f-72ea-43ed-815a-773df48d9c32.jpg",
         "star_rating": 0,
@@ -857,7 +857,7 @@
         "lng": -75.1515783271
     }, {
         "title": "为自己/爱人/朋友亲自刺青",
-        "kicker_text": "art class · Shanghai",
+        "kicker_text": "art class * Shanghai",
         "country": "中国",
         "picture": "https://a0.muscache.com/im/pictures/867f5bb0-86ab-447b-8647-729a5b168c32.jpg",
         "star_rating": 0,
@@ -865,7 +865,7 @@
         "lng": 121.468532716
     }, {
         "title": "self defense on the top of Barcelona",
-        "kicker_text": "martial arts · Barcelona",
+        "kicker_text": "martial arts * Barcelona",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/c627f825-85f2-42bb-901c-66ebcc09339f.jpg",
         "star_rating": 0,
@@ -873,7 +873,7 @@
         "lng": 2.15241761259
     }, {
         "title": "Learn to Make Shanghai & Wuhan Noodles",
-        "kicker_text": "cooking class · Shanghai",
+        "kicker_text": "cooking class * Shanghai",
         "country": "中国",
         "picture": "https://a0.muscache.com/im/pictures/0e9b3a94-30f0-4c87-8cd5-105778d128df.jpg",
         "star_rating": 5.0,
@@ -881,7 +881,7 @@
         "lng": 121.45252936
     }, {
         "title": "Tour Beautiful Venice Beach",
-        "kicker_text": "bike ride · Los Angeles",
+        "kicker_text": "bike ride * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/0bd6c6c7-5994-496b-bcdb-8a7155e52341.jpg",
         "star_rating": 0,
@@ -889,7 +889,7 @@
         "lng": -118.471722788
     }, {
         "title": "Igrejas do Rio Antigo com Historiador",
-        "kicker_text": "history walk · Rio De Janeiro",
+        "kicker_text": "history walk * Rio De Janeiro",
         "country": "Brasil",
         "picture": "https://a0.muscache.com/im/pictures/36e5db50-9b0e-4396-8758-3221dcd6298d.jpg",
         "star_rating": 0,
@@ -897,7 +897,7 @@
         "lng": -43.1767949936
     }, {
         "title": "The Dumpling Queen",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/59695c94-653c-4a39-872d-3737d9e0d795.jpg",
         "star_rating": 0,
@@ -905,7 +905,7 @@
         "lng": -75.1562977328
     }, {
         "title": "Aulas de Tecido - Cia de Dança Aérea",
-        "kicker_text": "dance lesson · Rio De Janeiro",
+        "kicker_text": "dance lesson * Rio De Janeiro",
         "country": "Brasil",
         "picture": "https://a0.muscache.com/im/pictures/3f96fd72-0bc7-4285-ab8f-5518ba9e7e5c.jpg",
         "star_rating": 0,
@@ -913,7 +913,7 @@
         "lng": -43.1893207942
     }, {
         "title": "The Rocky Run",
-        "kicker_text": "Sports · Philadelphia",
+        "kicker_text": "Sports * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/47e98311-63d9-440d-b32d-fdb20d9de91f.jpg",
         "star_rating": 0,
@@ -921,7 +921,7 @@
         "lng": -75.1870374563
     }, {
         "title": "Nara Spiritual Hiking Wakakusayama",
-        "kicker_text": "guided hike · Osaka",
+        "kicker_text": "guided hike * Osaka",
         "country": "Japan",
         "picture": "https://a0.muscache.com/im/pictures/e3b1c2a4-d0ba-4b7e-a8a4-838bd90510a5.jpg",
         "star_rating": 0,
@@ -929,7 +929,7 @@
         "lng": 135.826626165
     }, {
         "title": "Electric Scooter in Historic Barcelona",
-        "kicker_text": "Lifestyle · Barcelona",
+        "kicker_text": "Lifestyle * Barcelona",
         "country": "Espagne",
         "picture": "https://a0.muscache.com/im/pictures/d8da0a17-0032-4cae-9f9c-d03696d8785c.jpg",
         "star_rating": 0,
@@ -937,7 +937,7 @@
         "lng": 2.14386281198
     }, {
         "title": "Handmade Soap (Cold Process)",
-        "kicker_text": "workshop · Singapore",
+        "kicker_text": "workshop * Singapore",
         "country": "Singapore",
         "picture": "https://a0.muscache.com/im/pictures/9108aaab-a437-46ce-9a14-af4b4a068604.jpg",
         "star_rating": 0,
@@ -945,7 +945,7 @@
         "lng": 103.770830604
     }, {
         "title": "Abseiling and Juggler Canyon",
-        "kicker_text": "rock climbing · Sydney",
+        "kicker_text": "rock climbing * Sydney",
         "country": "Australia",
         "picture": "https://a0.muscache.com/im/pictures/762fc324-4825-45e0-b9e7-b74c0664cea4.jpg",
         "star_rating": 0,
@@ -953,7 +953,7 @@
         "lng": 150.311397224
     }, {
         "title": "The Superjump Abseil",
-        "kicker_text": "rock climbing · Sydney",
+        "kicker_text": "rock climbing * Sydney",
         "country": "Australia",
         "picture": "https://a0.muscache.com/im/pictures/1d481813-a21c-4cb2-93d9-41fab1b3c700.jpg",
         "star_rating": 0,
@@ -961,7 +961,7 @@
         "lng": 150.311352109
     }, {
         "title": "Frank's Silly Philly Feature Dinner",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/3552ec77-4f0a-4fa9-ab74-4d93d1f7b807.jpg",
         "star_rating": 0,
@@ -969,7 +969,7 @@
         "lng": -75.1555188111
     }, {
         "title": "Tea Ceremony Dressing up in a KIMONO",
-        "kicker_text": "tea ceremony · Tokyo",
+        "kicker_text": "tea ceremony * Tokyo",
         "country": "日本",
         "picture": "https://a0.muscache.com/im/pictures/56144d30-9dd5-42f0-ad62-d56139f589d3.jpg",
         "star_rating": 0,
@@ -977,7 +977,7 @@
         "lng": 139.868172693
     }, {
         "title": "Chinese New Year in Philly Chinatown",
-        "kicker_text": "History · Philadelphia",
+        "kicker_text": "History * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/f807cb2c-10f9-4e56-ad4a-c5a23cb470cb.jpg",
         "star_rating": 0,
@@ -985,7 +985,7 @@
         "lng": -75.1553834664
     }, {
         "title": "Latin Dancing in Philadelphia",
-        "kicker_text": "Nightlife · Philadelphia",
+        "kicker_text": "Nightlife * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/7869f84d-0518-438c-974a-ee5340a13450.jpg",
         "star_rating": 0,
@@ -993,7 +993,7 @@
         "lng": -75.1429718239
     }, {
         "title": "Skyline Photography with a Pro",
-        "kicker_text": "Arts & Design · Philadelphia",
+        "kicker_text": "Arts & Design * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/f57ffb1a-d45a-43a7-a37f-584dc44c8d2d.jpg",
         "star_rating": 0,
@@ -1001,7 +1001,7 @@
         "lng": -75.1843887387
     }, {
         "title": "Make Jewelry with a Local Designer",
-        "kicker_text": "Fashion · Philadelphia",
+        "kicker_text": "Fashion * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/458ef30e-c2d6-40f5-8b36-e49d4e794a50.jpg",
         "star_rating": 0,
@@ -1009,7 +1009,7 @@
         "lng": -75.1679396502
     }, {
         "title": "Historic Hike in Wissahickon Valley",
-        "kicker_text": "Nature · Philadelphia",
+        "kicker_text": "Nature * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/61111faa-07bc-4c74-bfa5-58631b588e37.jpg",
         "star_rating": 0,
@@ -1017,7 +1017,7 @@
         "lng": -75.2070185145
     }, {
         "title": "instagrammable milan - with costanza",
-        "kicker_text": "culture walk · Milan",
+        "kicker_text": "culture walk * Milan",
         "country": "Italia",
         "picture": "https://a0.muscache.com/im/pictures/d46da8e2-12a8-4266-a871-c369ca8a3320.jpg",
         "star_rating": 0,
@@ -1025,7 +1025,7 @@
         "lng": 9.19110646515
     }, {
         "title": "Rooftops - The best views in Madrid",
-        "kicker_text": "Lifestyle · Madrid",
+        "kicker_text": "Lifestyle * Madrid",
         "country": "España",
         "picture": "https://a0.muscache.com/im/pictures/db91d206-9c6d-485d-b370-80a2d80285f3.jpg",
         "star_rating": 0,
@@ -1033,7 +1033,7 @@
         "lng": -3.69315624689
     }, {
         "title": "Phillytecture",
-        "kicker_text": "History · Philadelphia",
+        "kicker_text": "History * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/640afad4-4dc5-4058-af21-9de7f8ea17bd.jpg",
         "star_rating": 0,
@@ -1041,7 +1041,7 @@
         "lng": -75.1425206736
     }, {
         "title": "EKCO London Gallery Tours",
-        "kicker_text": "gallery visit · London",
+        "kicker_text": "gallery visit * London",
         "country": "United Kingdom",
         "picture": "https://a0.muscache.com/im/pictures/49ee42ac-8804-4e0f-a9a7-accdc33fe494.jpg",
         "star_rating": 0,
@@ -1049,7 +1049,7 @@
         "lng": -0.0701888124197
     }, {
         "title": "Italian Cooking with \" La Mia Famiglia \"",
-        "kicker_text": "Food & Drink · Philadelphia",
+        "kicker_text": "Food & Drink * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/4105deb3-0b71-41aa-8fb8-57987c865a62.jpg",
         "star_rating": 0,
@@ -1057,7 +1057,7 @@
         "lng": -75.1678073971
     }, {
         "title": "Mixing music with vintage outboards",
-        "kicker_text": "Music · Osaka",
+        "kicker_text": "Music * Osaka",
         "country": "Japan",
         "picture": "https://a0.muscache.com/im/pictures/0c50348d-29dc-4104-bb34-8a0669b5617b.jpg",
         "star_rating": 0,
@@ -1065,7 +1065,7 @@
         "lng": 135.496074711
     }, {
         "title": "The Baby Boomer Music Walking Tour",
-        "kicker_text": "Music · Philadelphia",
+        "kicker_text": "Music * Philadelphia",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/85e254c7-8dd4-42c5-a8d9-73d2db3d3b5e.jpg",
         "star_rating": 0,
@@ -1073,7 +1073,7 @@
         "lng": -75.1660935813
     }, {
         "title": "Enjoy Local Cinema and Wine",
-        "kicker_text": "movie screening · Florence",
+        "kicker_text": "movie screening * Florence",
         "country": "Italia",
         "picture": "https://a0.muscache.com/im/pictures/a452f6fb-4ee2-4f89-92f9-c600911fb272.jpg",
         "star_rating": 0,
@@ -1081,7 +1081,7 @@
         "lng": 11.2614626519
     }, {
         "title": "The Flamingo's Paradise Experience",
-        "kicker_text": "nature walk · Cuba West",
+        "kicker_text": "nature walk * Cuba West",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/cd965c5e-19d3-479e-9a82-9bb6909484d8.jpg",
         "star_rating": 0,
@@ -1089,7 +1089,7 @@
         "lng": -80.452446757
     }, {
         "title": "Play football with locals in a stadium",
-        "kicker_text": "sport game · Prague",
+        "kicker_text": "sport game * Prague",
         "country": "Repubblica Ceca",
         "picture": "https://a0.muscache.com/im/pictures/25907fab-8bb7-4fc5-8eb1-e291b7294308.jpg",
         "star_rating": 0,
@@ -1097,7 +1097,7 @@
         "lng": 16.6120659843
     }, {
         "title": "AFROHAUS VALENTINES DAY Experience",
-        "kicker_text": "intimate concert · Los Angeles",
+        "kicker_text": "intimate concert * Los Angeles",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/d0d48ef7-b9eb-4c9a-ab47-e4e362669386.jpg",
         "star_rating": 0,
@@ -1105,7 +1105,7 @@
         "lng": -118.394340914
     }, {
         "title": "Let's know the Havana history in bikes",
-        "kicker_text": "bike ride · Cuba West",
+        "kicker_text": "bike ride * Cuba West",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/a8f5e5c9-a2b9-4a4c-b87c-cb21dba33ddd.jpg",
         "star_rating": 0,
@@ -1113,7 +1113,7 @@
         "lng": -82.4049866987
     }, {
         "title": "Mountain Biking Volcanoes",
-        "kicker_text": "Sports · Mexico City",
+        "kicker_text": "Sports * Mexico City",
         "country": "Mexico",
         "picture": "https://a0.muscache.com/im/pictures/fbf7f906-fcac-4c6c-b0a5-af397cbfd536.jpg",
         "star_rating": 0,
@@ -1121,7 +1121,7 @@
         "lng": -99.1763382279
     }, {
         "title": "Miniature leather boots workshop",
-        "kicker_text": "Arts & Design · Melbourne",
+        "kicker_text": "Arts & Design * Melbourne",
         "country": "Australia",
         "picture": "https://a0.muscache.com/im/pictures/0d884806-e31f-43fe-9364-9b9f48408b97.jpg",
         "star_rating": 0,
@@ -1129,7 +1129,7 @@
         "lng": 144.987001202
     }, {
         "title": "Salida en Canoa Rabaska por Tigre",
-        "kicker_text": "Nature · Buenos Aires",
+        "kicker_text": "Nature * Buenos Aires",
         "country": "Argentina",
         "picture": "https://a0.muscache.com/im/pictures/9b4c01e0-6172-450d-b6b1-143ea9f8ce54.jpg",
         "star_rating": 0,
@@ -1137,7 +1137,7 @@
         "lng": -58.5821272836
     }, {
         "title": "Una noche en el teatro",
-        "kicker_text": "Arts & Design · Havana",
+        "kicker_text": "Arts & Design * Havana",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/416e33b3-169b-4082-97a1-31299acf2f86.jpg",
         "star_rating": 0,
@@ -1145,7 +1145,7 @@
         "lng": -82.3897145389
     }, {
         "title": "CustomTattoosPiercingsHatsandClothing",
-        "kicker_text": "Arts & Design · New York",
+        "kicker_text": "Arts & Design * New York",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/5f2da711-4379-411c-a97e-b3150868b7db.jpg",
         "star_rating": 0,
@@ -1153,7 +1153,7 @@
         "lng": -73.9316545231
     }, {
         "title": "Bribri Tribe & Organic Chocolate Tour",
-        "kicker_text": "Nature · Costa Rica",
+        "kicker_text": "Nature * Costa Rica",
         "country": "Costa Rica",
         "picture": "https://a0.muscache.com/im/pictures/98a0b52a-8026-4f5e-b45a-e5e410b6d1b9.jpg",
         "star_rating": 0,
@@ -1161,7 +1161,7 @@
         "lng": -82.8580841686
     }, {
         "title": "Bar hop with a local brewer",
-        "kicker_text": "Food & Drink · Victoria",
+        "kicker_text": "Food & Drink * Victoria",
         "country": "Canada",
         "picture": "https://a0.muscache.com/im/pictures/cb38660a-dc5a-403e-9927-c995639f5d00.jpg",
         "star_rating": 0,
@@ -1169,7 +1169,7 @@
         "lng": -123.369811195
     }, {
         "title": "Ft. Lauderdale Water Taxi Tour!",
-        "kicker_text": "Entertainment · Miami",
+        "kicker_text": "Entertainment * Miami",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/23ad416f-2c14-4649-80b3-f9a0e91a607b.jpg",
         "star_rating": 0,
@@ -1177,7 +1177,7 @@
         "lng": -80.1359877241
     }, {
         "title": "Vegan Foodie Stroll with a local chef",
-        "kicker_text": "Food & Drink · Barcelona",
+        "kicker_text": "Food & Drink * Barcelona",
         "country": "Spain",
         "picture": "https://a0.muscache.com/im/pictures/70e19851-b579-41fa-b008-6f6f0ef0a57a.jpg",
         "star_rating": 0,
@@ -1185,7 +1185,7 @@
         "lng": 2.17802165877
     }, {
         "title": "Exclusive Hike on Hualalai Mountain",
-        "kicker_text": "Nature · The Big Island",
+        "kicker_text": "Nature * The Big Island",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/f71ddecc-e2cd-4bbf-8f93-d7aba53ff0b1.jpg",
         "star_rating": 5.0,
@@ -1193,7 +1193,7 @@
         "lng": -155.923985194
     }, {
         "title": "Sailing Adventure",
-        "kicker_text": "boat ride · Dubai",
+        "kicker_text": "boat ride * Dubai",
         "country": "United Arab Emirates",
         "picture": "https://a0.muscache.com/im/pictures/3e1bfef0-d562-419b-927f-d8f0cfaa41d7.jpg",
         "star_rating": 0,
@@ -1201,7 +1201,7 @@
         "lng": 55.1917483997
     }, {
         "title": "Louvre for Families \" Discovery \"",
-        "kicker_text": "Arts & Design · Paris",
+        "kicker_text": "Arts & Design * Paris",
         "country": "France",
         "picture": "https://a0.muscache.com/im/pictures/42eedc18-fa3b-441c-83db-73071eee6676.jpg",
         "star_rating": 0,
@@ -1209,7 +1209,7 @@
         "lng": 2.33743735286
     }, {
         "title": "GALentines | The Silversmith Adventure",
-        "kicker_text": "Entertainment · Toronto",
+        "kicker_text": "Entertainment * Toronto",
         "country": "Canada",
         "picture": "https://a0.muscache.com/im/pictures/e1eb0566-35dc-46c8-b508-11fb313e64fc.jpg",
         "star_rating": 0,
@@ -1217,7 +1217,7 @@
         "lng": -79.4571680171
     }, {
         "title": "The artist's tapas",
-        "kicker_text": "tasting menu · Seville",
+        "kicker_text": "tasting menu * Seville",
         "country": "Spain",
         "picture": "https://a0.muscache.com/im/pictures/b9f78a74-c641-49fa-bb70-d8b5ad8a9c95.jpg",
         "star_rating": 5.0,
@@ -1225,7 +1225,7 @@
         "lng": -5.99845056604
     }, {
         "title": "West Bali in Vintage Cabrio Jeep",
-        "kicker_text": "Nature · Bali",
+        "kicker_text": "Nature * Bali",
         "country": "Indonesia",
         "picture": "https://a0.muscache.com/im/pictures/4844028d-6278-45fe-b01f-28f8203c0354.jpg",
         "star_rating": 4.5,
@@ -1233,7 +1233,7 @@
         "lng": 115.156653707
     }, {
         "title": "Making Beautiful Zen eatable garden!",
-        "kicker_text": "Arts & Design · Osaka",
+        "kicker_text": "Arts & Design * Osaka",
         "country": "日本",
         "picture": "https://a0.muscache.com/im/pictures/ff122031-9636-49f2-b3da-db20d85a635b.jpg",
         "star_rating": 0,
@@ -1241,7 +1241,7 @@
         "lng": 135.762630402
     }, {
         "title": "Dressage Riding Experience",
-        "kicker_text": "Sports · London",
+        "kicker_text": "Sports * London",
         "country": "United Kingdom",
         "picture": "https://a0.muscache.com/im/pictures/17372dec-276c-4692-ad42-aa63fa89f8eb.jpg",
         "star_rating": 0,
@@ -1249,7 +1249,7 @@
         "lng": -0.037962294336
     }, {
         "title": "Ride a horse to a secret waterfall",
-        "kicker_text": "Nature · Cuba West",
+        "kicker_text": "Nature * Cuba West",
         "country": "Cuba",
         "picture": "https://a0.muscache.com/im/pictures/84138b46-6d15-4ecf-a7b7-357db2dbd2e1.jpg",
         "star_rating": 0,
@@ -1257,7 +1257,7 @@
         "lng": -79.9832634063
     }, {
         "title": "Lisbon at Sunset on a Vintage Sailboat",
-        "kicker_text": "Nature · Lisbon",
+        "kicker_text": "Nature * Lisbon",
         "country": "Portugal",
         "picture": "https://a0.muscache.com/im/pictures/6e4a9f1a-78d9-4b4c-8935-f4c90327a174.jpg",
         "star_rating": 0,
@@ -1265,7 +1265,7 @@
         "lng": -9.20231164931
     }, {
         "title": "ÆRENA Gallery Private Tour",
-        "kicker_text": "Arts & Design · San Francisco",
+        "kicker_text": "Arts & Design * San Francisco",
         "country": "United States",
         "picture": "https://a0.muscache.com/im/pictures/a4ab9aec-11ae-47ed-8212-bd33623f7393.jpg",
         "star_rating": 0,
@@ -1273,7 +1273,7 @@
         "lng": -122.28239529
     }, {
         "title": "Explore the Graffiti City by Bike",
-        "kicker_text": "Entertainment · Berlin",
+        "kicker_text": "Entertainment * Berlin",
         "country": "Germany",
         "picture": "https://a0.muscache.com/im/pictures/ebf23d8b-1d1e-4c80-9834-5cd859b5e383.jpg",
         "star_rating": 0,
