@@ -11,13 +11,13 @@ Scraping the following items:
  - `lat`: 48.8674018702
  - `lng`: 2.32934203089
 
-from all AirBnB Experiences posts and posting them to my instagram account. 
+from all AirBnB Experiences posts and posting them to [my instagram account](https://www.instagram.com/andrewmccausland111/). 
 
 `get_airbnb_to_json.py` scrapes the airbnb.com site and prints data in json friendly strings. Pipe this output to a .json file like so:
 
 `python get_airbnb_to_json.py > output.json`
 
-See `output.json` for an example of the output (which was scraped on Feb 12 2018).
+See `output.json` for an example of the output (from Feb 12 2018).
 
 `download_images.py` uses [urllib](https://docs.python.org/2/library/urllib.html) to download every image from the `picture` key's url value in `output.json` into a folder called `img` in your working directory.
 
