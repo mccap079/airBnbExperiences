@@ -1,8 +1,6 @@
 [AirBnB Experinces](https://www.airbnb.com/s/experiences?refinement_paths%5B%5D=%2Fexperiences)
 ===
 
-**WIP**
-
 Scraping the following items:
 
  - `title`: “Paris’ Best Kept Secrets Tour”
